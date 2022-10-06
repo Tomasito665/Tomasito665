@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Jordi (Tomás) Ortolá Ankum, hence my nickname, @Tomasito665.
+- 👀 I'm interested in Software Engineering and Jazz music.
+- 🌱 I'm currently studying Computer Science at the University of London.
+- 💞️ I'm looking to collaborate to projects related to music.
+- 📫 Reach out to me via LinkedIn or e-mail: jordi665@hotmail.com.
